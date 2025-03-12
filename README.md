@@ -12,8 +12,12 @@ Bem-vindo! Este é um site simples de previsão do tempo desenvolvido em **React
 📱 Visualização
 O site estará disponível em https://previsaodotempo-react.netlify.app/
 
-🧩 Funcionalidades
-🔍 Pesquisa por localização
-🌡️ Exibição da temperatura atual
-🌦️ Previsão do tempo para os próximos dias
-🗺️ Informações adicionais, como umidade e velocidade do vento
+🧩 Funcionalidades 
+
+🔍 Pesquisa por localização.
+
+🌡️ Exibição da temperatura atual.
+
+🌦️ Previsão do tempo para os próximos dias.
+
+🗺️ Informações adicionais, como umidade e velocidade do vento.
